@@ -9,8 +9,8 @@
 
 [x] In a CSS file, any <div> created using the "Generate" button should have a Red background-color.
 
-[ ] Clicking a "Swap" <button> should change its parent background-color from Red to Yellow.
+[x] Clicking a "Swap" <button> should change its parent background-color from Red to Yellow.
 
-[ ] Clicking a "Delete" <button> should remove its parent <div> container (and all of its contents).
+[x] Clicking a "Delete" <button> should remove its parent <div> container (and all of its contents).
 
 No need to do anything beyond the challenge described above. Once you are complete, check your code into a GitHub repo and submit via this application. Then quietly leave the room until the challenge is over.
